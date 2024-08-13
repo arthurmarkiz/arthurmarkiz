@@ -1,7 +1,7 @@
 # ✨ Arthur Markiz ✨
 <br/>
 
-**`Digital Craftsman (Developer/Graphic & Web Designer) FROM Brazil 🇧🇷`**
+**`Digital Craftsman (Developer & Graphic Designer) FROM Brazil 🇧🇷`**
 
 I'm an anime lover Full-Stack Developer and some times Graphic Designer. At the moment building 
 my own app for solve my biggest problem and of course that of many people around the world, which is 

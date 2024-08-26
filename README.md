@@ -12,5 +12,5 @@ I'm an anime lover Full-Stack Developer and some times Graphic Designer. Current
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,java,spring,mysql,mongodb,aws,docker&perline=12&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,next,typescript,tailwind,java,spring,postgresql,mysql,mongodb,aws,docker&perline=7&theme=dark)](https://skillicons.dev)
 

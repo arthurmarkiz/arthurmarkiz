@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Developer & Graphic Designer) FROM Brazil 🇧🇷`**
 
-I'm an anime lover Full-Stack Developer and some times Graphic Designer. Currently sinking my mind into Java.
+I'm an anime lover Back-end Developer and some times Graphic Designer. Currently sinking my mind into Java.
 
 <br/>
 
@@ -12,5 +12,5 @@ I'm an anime lover Full-Stack Developer and some times Graphic Designer. Current
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,next,typescript,tailwind,java,spring,postgresql,mysql,mongodb,aws,docker&perline=7&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,graphql,aws,docker&perline=8&theme=dark)
 

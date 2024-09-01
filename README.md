@@ -12,5 +12,5 @@ I'm an anime lover Back-end Developer and some times Graphic Designer. Currently
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,graphql,aws,docker&perline=8&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,graphql,angular,tailwind,aws,docker&perline=10&theme=dark)
 

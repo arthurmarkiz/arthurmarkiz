@@ -15,5 +15,5 @@ Currently focused on improving my skills in web development.
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,php,laravel,mysql,postgresql,vue,tailwind,aws,docker&perline=10&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,php,laravel,javascript,vue,tailwind,mysql,postgresql,aws,docker&perline=10&theme=dark)
 

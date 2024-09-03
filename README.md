@@ -3,7 +3,10 @@
 
 **`Digital Craftsman (Developer & Graphic Designer) FROM Brazil 🇧🇷`**
 
-I'm an anime lover Back-end Developer and some times Graphic Designer. Currently sinking my mind into Java.
+I'm an anime lover Back-end Developer and some times Graphic Designer. <br/>
+Currently focused on improving my skills in web development. 
+
+🌍 PHP is alive and I can prove it... 
 
 <br/>
 
@@ -12,5 +15,5 @@ I'm an anime lover Back-end Developer and some times Graphic Designer. Currently
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,graphql,angular,tailwind,aws,docker&perline=10&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,php,laravel,mysql,postgresql,vue,tailwind,aws,docker&perline=10&theme=dark)
 

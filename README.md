@@ -10,12 +10,6 @@ Currently focused on improving my skills in web development.
 
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&letterSpacing=1px&duration=4000&pause=1000&color=FFFFFF&background=16FFFC00&center=false&vCenter=false&width=435&lines=Welcome+to+my+World!+👋;Always+coding+👨‍💻;" alt="Typing SVG" /></img>
 
-## ⚙ OS
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![centos](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-![redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-<br /><br />
-
 ## 🧰 Languages and Tools
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

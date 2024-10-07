@@ -4,7 +4,7 @@
 **`Digital Craftsman (Developer & Graphic Designer) FROM Brazil 🇧🇷`**
 
 I'm an anime lover Front-end Developer and some times Graphic Designer. <br/>
-Currently focused on improving my skills in ***Web Dev*** and ***Animations with GSAP***
+Currently focused on improving my skills in ***Web Dev*** and ***Animations with GSAP***.
 
 <br/>
 
